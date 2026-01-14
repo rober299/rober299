@@ -1,4 +1,9 @@
-Hola soy Roberto Chislea👋
+👋 Hola, soy Roberto  
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+💻 Desarrollo de software con Java y Python  
+🗄️ Gestión de bases de datos SQL  
+🌐 Desarrollo web con HTML y CSS  
+📈 Aprendizaje continuo y orientación a proyectos  
 
 <!--
 **rober299/rober299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
